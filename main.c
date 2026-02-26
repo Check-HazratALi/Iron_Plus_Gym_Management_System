@@ -1,8 +1,6 @@
 #include <stdio.h>
 
-void login();
-
 int main() {
-    login(); 
+    printf("Hello World");
     return 0;
 }
